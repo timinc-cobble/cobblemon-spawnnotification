@@ -1,0 +1,17 @@
+{
+  "spawn_notification.notification.legendary.shiny": "傳說的色違 %d 生成",
+  "spawn_notification.notification.gen1": "第一世代 %d 生成",
+  "spawn_notification.notification.gen1.shiny": "色違第一世代 %d 生成",
+  "spawn_notification.notification.shiny": "色違 %d 生成",
+  "spawn_notification.notification.legendary": "傳說的 %d 生成",
+  "spawn_notification.notification.coords": " 在座標 (%d, %d, %d)",
+  "spawn_notification.notification.biome": " 在 %d 生態域",
+  "spawn_notification.notification.dimension": " 在 %d",
+  "spawn_notification.notification.fainted":  "%d 昏迷了",
+  "spawn_notification.notification.captured":  "%d 被抓了",
+  "spawn_notification.notification.despawned":  "%d 消失了",
+  "spawn_notification.shinysoundsubtitle": "Shiny spawned",
+  "dimension.minecraft.overworld": "主世界",
+  "dimension.minecraft.the_nether": "地獄",
+  "dimension.minecraft.the_end": "終界"
+}
